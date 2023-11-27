@@ -1,0 +1,9 @@
+===========================Snack King Food Center===========================
+
+Remaining Pizza Stock is : 98
+
+Customer Details
+Queue 1, Slot 1: Sachi
+Queue 2, Slot 1: Hesha
+Queue 2, Slot 2: 3
+Queue 3, Slot 1: Kavi
